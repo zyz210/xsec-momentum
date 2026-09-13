@@ -1,0 +1,358 @@
+{
+  "exchange": "binanceusdm",
+  "timeframe": "4h",
+  "years": 3.0,
+  "symbols": [
+    {
+      "symbol": "ETH/USDT:USDT",
+      "file": "ETHUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "BTC/USDT:USDT",
+      "file": "BTCUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "LSK/USDT:USDT",
+      "file": "LSKUSDT.csv",
+      "bars": 5770,
+      "start": "2024-01-25 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "ZEC/USDT:USDT",
+      "file": "ZECUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "\u9f99\u867e/USDT:USDT",
+      "file": "\u9f99\u867eUSDT.csv",
+      "bars": 1115,
+      "start": "2026-03-11 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "SOL/USDT:USDT",
+      "file": "SOLUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "XRP/USDT:USDT",
+      "file": "XRPUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "HYPE/USDT:USDT",
+      "file": "HYPEUSDT.csv",
+      "bars": 2825,
+      "start": "2025-05-30 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "\u725b\u6765/USDT:USDT",
+      "file": "\u725b\u6765USDT.csv",
+      "bars": 83,
+      "start": "2026-08-30 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "VTHO/USDT:USDT",
+      "file": "VTHOUSDT.csv",
+      "bars": 3593,
+      "start": "2025-01-22 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "BNB/USDT:USDT",
+      "file": "BNBUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "LAB/USDT:USDT",
+      "file": "LABUSDT.csv",
+      "bars": 1984,
+      "start": "2025-10-17 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "UNI/USDT:USDT",
+      "file": "UNIUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "DOGE/USDT:USDT",
+      "file": "DOGEUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "CL/USDT:USDT",
+      "file": "CLUSDT.csv",
+      "bars": 989,
+      "start": "2026-04-01 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "UAI/USDT:USDT",
+      "file": "UAIUSDT.csv",
+      "bars": 1865,
+      "start": "2025-11-06 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "NEAR/USDT:USDT",
+      "file": "NEARUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "SUI/USDT:USDT",
+      "file": "SUIUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "FLOCK/USDT:USDT",
+      "file": "FLOCKUSDT.csv",
+      "bars": 2214,
+      "start": "2025-09-09 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "PUMP/USDT:USDT",
+      "file": "PUMPUSDT.csv",
+      "bars": 2580,
+      "start": "2025-07-10 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "SKHYNIX/USDT:USDT",
+      "file": "SKHYNIXUSDT.csv",
+      "bars": 619,
+      "start": "2026-06-02 00:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "1000PEPE/USDT:USDT",
+      "file": "1000PEPEUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "SNDK/USDT:USDT",
+      "file": "SNDKUSDT.csv",
+      "bars": 952,
+      "start": "2026-04-07 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "RAYSOL/USDT:USDT",
+      "file": "RAYSOLUSDT.csv",
+      "bars": 3850,
+      "start": "2024-12-10 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "RIVER/USDT:USDT",
+      "file": "RIVERUSDT.csv",
+      "bars": 1984,
+      "start": "2025-10-17 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "ETHFI/USDT:USDT",
+      "file": "ETHFIUSDT.csv",
+      "bars": 5452,
+      "start": "2024-03-18 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "PONS/USDT:USDT",
+      "file": "PONSUSDT.csv",
+      "bars": 42,
+      "start": "2026-09-06 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "GRIFFAIN/USDT:USDT",
+      "file": "GRIFFAINUSDT.csv",
+      "bars": 3712,
+      "start": "2025-01-02 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "ADA/USDT:USDT",
+      "file": "ADAUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "BZ/USDT:USDT",
+      "file": "BZUSDT.csv",
+      "bars": 989,
+      "start": "2026-04-01 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "ENA/USDT:USDT",
+      "file": "ENAUSDT.csv",
+      "bars": 5362,
+      "start": "2024-04-02 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "USELESS/USDT:USDT",
+      "file": "USELESSUSDT.csv",
+      "bars": 2362,
+      "start": "2025-08-15 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "WLFI/USDT:USDT",
+      "file": "WLFIUSDT.csv",
+      "bars": 2315,
+      "start": "2025-08-23 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "\u6211\u8e0f\u9a6c\u6765\u4e86/USDT:USDT",
+      "file": "\u6211\u8e0f\u9a6c\u6765\u4e86USDT.csv",
+      "bars": 1408,
+      "start": "2026-01-21 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "XAU/USDT:USDT",
+      "file": "XAUUSDT.csv",
+      "bars": 1655,
+      "start": "2025-12-11 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "WLD/USDT:USDT",
+      "file": "WLDUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "LINK/USDT:USDT",
+      "file": "LINKUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "MARSCOIN/USDT:USDT",
+      "file": "MARSCOINUSDT.csv",
+      "bars": 71,
+      "start": "2026-09-01 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "ARB/USDT:USDT",
+      "file": "ARBUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "XAG/USDT:USDT",
+      "file": "XAGUSDT.csv",
+      "bars": 1493,
+      "start": "2026-01-07 08:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "TAO/USDT:USDT",
+      "file": "TAOUSDT.csv",
+      "bars": 5308,
+      "start": "2024-04-11 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "SOXL/USDT:USDT",
+      "file": "SOXLUSDT.csv",
+      "bars": 724,
+      "start": "2026-05-15 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "IOST/USDT:USDT",
+      "file": "IOSTUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "SKHY/USDT:USDT",
+      "file": "SKHYUSDT.csv",
+      "bars": 388,
+      "start": "2026-07-10 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "AKE/USDT:USDT",
+      "file": "AKEUSDT.csv",
+      "bars": 2110,
+      "start": "2025-09-26 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "REZ/USDT:USDT",
+      "file": "REZUSDT.csv",
+      "bars": 5194,
+      "start": "2024-04-30 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "TRUMP/USDT:USDT",
+      "file": "TRUMPUSDT.csv",
+      "bars": 3616,
+      "start": "2025-01-18 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "BEAT/USDT:USDT",
+      "file": "BEATUSDT.csv",
+      "bars": 1828,
+      "start": "2025-11-12 12:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "XMR/USDT:USDT",
+      "file": "XMRUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    },
+    {
+      "symbol": "AAVE/USDT:USDT",
+      "file": "AAVEUSDT.csv",
+      "bars": 6570,
+      "start": "2023-09-14 04:00:00+00:00",
+      "end": "2026-09-13 00:00:00+00:00"
+    }
+  ],
+  "generated_ms": 1789264495014
+}
